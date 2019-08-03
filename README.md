@@ -2,7 +2,7 @@ This repo contains a python notebook which was created using the dataset given o
 
 https://www.kaggle.com/karangadiya/fifa19
 
-The notebook contains analysis and visualisations of the dataset and the overall score of a player is also predicted using various Linear regression algorithms, Ensembling algorithms, and neural network.
+The notebook contains analysis and visualisations of the dataset and the prediction of the overall score of a player using various Linear regression algorithms, Ensembling algorithms, and a neural network.
 
 The link for the original kernel is:
 
